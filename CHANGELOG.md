@@ -1,6 +1,6 @@
 # Changelog
 
-## Master (unreleased)
+## ## 1.1.0 [☰](https://github.com/activeadmin/activeadmin/compare/v1.0.0...v1.1.0)
 
 * Fixed [#4173](../../issues/4173) by including the default Kaminari templates [#5069](../../pull/5069) by [@javierjulio][]
 
